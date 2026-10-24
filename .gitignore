@@ -12,6 +12,7 @@
 .env.*
 !.env.example
 /.vercel
+/vercel-public
 /database/*.sqlite*
 /storage/app/site-backup-*/
 /storage/app/private/inquiries/

@@ -3,6 +3,7 @@
 /.env.*
 /vendor
 /node_modules
+/vercel-public
 /tests
 /storage/**
 /bootstrap/cache/*.php
