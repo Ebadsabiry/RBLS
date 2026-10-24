@@ -210,7 +210,7 @@
     <section class="rb-message" aria-labelledby="rb-message-title">
         <div class="rb-shell rb-message-grid">
             <div class="rb-president-frame rb-reveal">
-                <img src="{{ asset('images/president.png') }}" alt="Mayel Agha Ahmadi, President of RBLS" loading="lazy">
+                <img src="{{ asset('images/president.png').'?v='.substr(hash_file('sha256', public_path('images/president.png')), 0, 12) }}" alt="Mayel Agha Ahmadi, President of RBLS" loading="lazy">
             </div>
             <div class="rb-reveal-right rb-reveal">
                 <span class="rb-kicker">A message from our president</span>
