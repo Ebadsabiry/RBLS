@@ -1,0 +1,426 @@
+[
+  {
+    "id": 1,
+    "description": "Rental vehicle for delivery of Stone inJoqool village and Dabel village",
+    "service": "Goods transportation",
+    "location": "Maidan Wardak",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2022
+  },
+  {
+    "id": 2,
+    "description": "Rental Caster Bus – Caster bus 30 person",
+    "service": "Staff transportation",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2022
+  },
+  {
+    "id": 3,
+    "description": "Excavator for excavation of check dam for 6 days in Wechtangay chakari and Khak-e- Jabbar",
+    "service": "Construction Service",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2022
+  },
+  {
+    "id": 4,
+    "description": "Excavator with Hammer for 15 ACCY",
+    "service": "Construction Service",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2022
+  },
+  {
+    "id": 5,
+    "description": "Purchase of wooden for 7 heaters, 1,617 kg in Sayedabad Maidan Wardak",
+    "service": "Goods procurement",
+    "location": "Maidan Wardak",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2022
+  },
+  {
+    "id": 6,
+    "description": "Purchase of fire Wood – For Paghman Camp guards for winter season, 1,200 kg",
+    "service": "Goods procurement",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2022
+  },
+  {
+    "id": 7,
+    "description": "Purchase of doorbell with camera and wire including installation, 4 set + 35-meter wire",
+    "service": "Goods procurement",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2023
+  },
+  {
+    "id": 8,
+    "description": "Purchase of operation items use, stationery and cleaning items",
+    "service": "Goods procurement",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2023
+  },
+  {
+    "id": 9,
+    "description": "Rental Vehicle – 2 Corolla 1994 or above, 3 Corolla 2008 or above, 1 4X4 4runner 2007 or above",
+    "service": "Staff transportation",
+    "location": "Kabul & Maidan Wardak",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2023
+  },
+  {
+    "id": 10,
+    "description": "Providing lunch and Refreshment for Maidan Wardak Training of MAPWO for 200 people for 14 days",
+    "service": "Goods procurement",
+    "location": "Maidan Wardak",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2023
+  },
+  {
+    "id": 11,
+    "description": "Rental vehicle for joint monitoring in Maidan Wardak – 5 Toyota 3runner or Hilux 2002 or above for 3 months",
+    "service": "Staff transportation",
+    "location": "Maidan Wardak",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2023
+  },
+  {
+    "id": 12,
+    "description": "Purchasing of Refreshment items for PM",
+    "service": "Goods procurement",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2023
+  },
+  {
+    "id": 13,
+    "description": "Rental vehicle – rental vehicle 4runner 2007 or above for MAPWO-WHO project",
+    "service": "Staff transportation",
+    "location": "Kabul, Bamiyan, Paktika and Uruzgan",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2023
+  },
+  {
+    "id": 14,
+    "description": "Rental vehicle for field monitoring in Maidan Wardak – 3 Toyota Saracha pr fielder 1997 or above and 1 Toyota 3runner 2005 or above for 3 months",
+    "service": "Staff transportation",
+    "location": "Maidan Wardak",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2023
+  },
+  {
+    "id": 15,
+    "description": "Purchase of wood for fireplace",
+    "service": "Goods procurement",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2023
+  },
+  {
+    "id": 16,
+    "description": "Purchase of medicine for 3 Drug Addicted Treatment Centers",
+    "service": "Goods procurement",
+    "location": "Bamiyan, Paktika, and Uruzgan",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2023
+  },
+  {
+    "id": 17,
+    "description": "Rental Vehicle – 2 Corolla 1994 or above, 3 Corolla 2008 or above, 1 4X4 4runner 2007 or above",
+    "service": "Staff transportation",
+    "location": "Kabul & Maidan Wardak",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2024
+  },
+  {
+    "id": 18,
+    "description": "Rental Vehicle Services Toyota Corolla or similar 2002-2012 for Paktika and Maidan Wardak provinces. MAPWO-BGL",
+    "service": "Staff transportation",
+    "location": "Paktika & Maidan Wardak",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2024
+  },
+  {
+    "id": 19,
+    "description": "Purchase of District Level Offices equipment and stationery items to 9 districts - MAPWO",
+    "service": "Goods procurement",
+    "location": "Ghazni",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2024
+  },
+  {
+    "id": 20,
+    "description": "Purchase of IT equipment for Ghazni Construction Project - MAPWO",
+    "service": "Goods procurement",
+    "location": "Ghazni",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2024
+  },
+  {
+    "id": 21,
+    "description": "Purchase of wooden cupboards to Faryab Province",
+    "service": "Goods procurement",
+    "location": "Faryab",
+    "client": "Norwegian Afghanistan Committee (NAC)",
+    "year": 2024
+  },
+  {
+    "id": 22,
+    "description": "Provision of equip CBE classes with cooling facilities in Paktika & Ghazni related districts - MAPWO",
+    "service": "Goods procurement",
+    "location": "Ghazni & Paktika",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2024
+  },
+  {
+    "id": 23,
+    "description": "Supply & Delivery of complaint boxes to 300 classes in Ghazni & 200 classes in Paktika – MAPWO",
+    "service": "Goods transportation",
+    "location": "Ghazni & Paktika",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2024
+  },
+  {
+    "id": 24,
+    "description": "Printing & Delivery of IEC material to Ghazni & Paktika – MAPWO",
+    "service": "Printing and transportation",
+    "location": "Ghazni & Paktika",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2024
+  },
+  {
+    "id": 25,
+    "description": "Purchase of wooden cupboards to Faryab Province",
+    "service": "Goods procurement",
+    "location": "Faryab",
+    "client": "Norwegian Afghanistan Committee (NAC)",
+    "year": 2024
+  },
+  {
+    "id": 26,
+    "description": "Purchase of Office supplies for Community based centers",
+    "service": "Goods procurement",
+    "location": "Ghazni",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2024
+  },
+  {
+    "id": 27,
+    "description": "Printing of students’ graduation certificate in color, A4 paper including cover",
+    "service": "Printing and transportation",
+    "location": "Paktika & Maidan Wardak",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2024
+  },
+  {
+    "id": 28,
+    "description": "Purchase of medicines for 3 Drug Addicted Treatment Centers",
+    "service": "Goods procurement",
+    "location": "Bamiyan, Paktika & Uruzgan",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2024
+  },
+  {
+    "id": 29,
+    "description": "Procurement of IT equipment for HVSO office",
+    "service": "Goods procurement",
+    "location": "Kabul",
+    "client": "Hewad Vocational & Social Organization (HVSO)",
+    "year": 2024
+  },
+  {
+    "id": 30,
+    "description": "Purchase of wood for fire heaters",
+    "service": "Goods procurement",
+    "location": "Kabul & Maidan Wardak",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2024
+  },
+  {
+    "id": 31,
+    "description": "Rental vehicle service, Toyota corolla, fielder model 1997-2012 or similar",
+    "service": "Staff transportation",
+    "location": "Farah",
+    "client": "Hewad Vocational & Social Organization (HVSO)",
+    "year": 2024
+  },
+  {
+    "id": 32,
+    "description": "Provision of IEC material and complaint boxes",
+    "service": "Goods procurement",
+    "location": "Logar",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 33,
+    "description": "Procurement of office equipment and stationery items",
+    "service": "Goods procurement",
+    "location": "Ghazni",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 34,
+    "description": "Provision of student attendance sheets, educational logbooks, visit logbooks and teacher diaries",
+    "service": "Printing and transportation",
+    "location": "Logar",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 35,
+    "description": "Provision of student attendance sheets, educational logbooks, visit logbooks and teacher diaries",
+    "service": "Printing and transportation",
+    "location": "Paktika",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 36,
+    "description": "Rental Vehicle – 3 Hilux 2000 model or above, 2 Corolla 1995",
+    "service": "Staff transportation",
+    "location": "Kabul & Maidan Wardak",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 37,
+    "description": "Provision of student attendance sheets, educational logbooks, visit logbooks and teacher diaries",
+    "service": "Printing and transportation",
+    "location": "Wardak",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 38,
+    "description": "Purcase of Vitamin C",
+    "service": "Goods procurement",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2025
+  },
+  {
+    "id": 39,
+    "description": "Provision of lunch and refreshment for core training",
+    "service": "Goods procurement",
+    "location": "Ghazni",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 40,
+    "description": "Provision of lunch and refreshment for refresher training",
+    "service": "Goods procurement",
+    "location": "Ghazni",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 41,
+    "description": "Provision of lunch and refreshment for core training",
+    "service": "Goods procurement",
+    "location": "Logar",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 42,
+    "description": "Provision of lunch and refreshment for refresher training",
+    "service": "Goods procurement",
+    "location": "Maidan Wardak",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 43,
+    "description": "Provision of lunch and refreshment for refresher training",
+    "service": "Goods procurement",
+    "location": "Logar",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 44,
+    "description": "Provision of lunch and refreshment for core training",
+    "service": "Goods procurement",
+    "location": "Paktika",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 45,
+    "description": "Provision of lunch and refreshment for refresher training",
+    "service": "Goods procurement",
+    "location": "Paktika",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 46,
+    "description": "Purchase of wood for fire places",
+    "service": "Goods procurement",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2025
+  },
+  {
+    "id": 47,
+    "description": "Purchase of IT equipment for TDH porject",
+    "service": "Goods procurement",
+    "location": "Kunar",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2025
+  },
+  {
+    "id": 48,
+    "description": "Provision of refreshment, food and stationery",
+    "service": "Goods procurement",
+    "location": "Kabul",
+    "client": "Hewad Vocational & Social Organization (HVSO)",
+    "year": 2025
+  },
+  {
+    "id": 49,
+    "description": "Purchase of office supplies and stationery",
+    "service": "Goods procurement",
+    "location": "Bamyan and Daikundi",
+    "client": "Afghanistan Strategic & Policy Studies Organization (ASPSO)",
+    "year": 2026
+  },
+  {
+    "id": 50,
+    "description": "Purcase of wood for use of heaters",
+    "service": "Goods procurement",
+    "location": "Kabul",
+    "client": "Danish Refugee Council (DRC)",
+    "year": 2026
+  },
+  {
+    "id": 51,
+    "description": "Purchase of project items",
+    "service": "Goods procurement",
+    "location": "Kunar",
+    "client": "Afghanistan Strategic & Policy Studies Organization (ASPSO)",
+    "year": 2026
+  },
+  {
+    "id": 52,
+    "description": "Rental Vehicle Service",
+    "service": "Staff transportation",
+    "location": "Kabul",
+    "client": "Joint Organization for Youth Advancement (JOYA)",
+    "year": 2026
+  },
+  {
+    "id": 53,
+    "description": "Rental Vehicle Service",
+    "service": "Staff transportation",
+    "location": "Badghis",
+    "client": "Move Against Poverty of Women Organization (MAPWO)",
+    "year": 2026
+  }
+]

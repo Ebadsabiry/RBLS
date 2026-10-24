@@ -1,0 +1,12 @@
+/.git
+/.env
+/.env.*
+/vendor
+/node_modules
+/tests
+/storage/**
+/bootstrap/cache/*.php
+/database/*.sqlite*
+/README.md
+/VERCEL.md
+/.phpunit.cache
