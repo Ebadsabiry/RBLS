@@ -41,7 +41,7 @@ class SiteController extends Controller
 
     public function profile(): View
     {
-        $profileSize = number_format(filesize(public_path('RBLS Data/RBLS Profile 2026-compressed.pdf')) / 1048576, 1).' MB';
+        $profileSize = number_format(filesize(public_path('RBLS Data/RBLS Profile 2026.pdf')) / 1048576, 1).' MB';
         return view('pages.profile', compact('profileSize'));
     }
 

@@ -58,8 +58,8 @@ try {
     $app['config']->set('mail.default', 'log');
     for ($i = 0; $i < 5; $i++) requestSite('/contact', 'POST', [], '203.0.113.50');
     check(requestSite('/contact', 'POST', [], '203.0.113.50')->getStatusCode() === 429, 'Inquiry endpoint limits repeated submissions');
-    check(is_file(public_path('RBLS Data/RBLS Profile 2026-compressed.pdf')), 'Company profile download exists');
-    check(is_file(public_path('RBLS Data/RBLS past experience portfolio.xlsx')), 'Portfolio download exists');
+    check(is_file(public_path('RBLS Data/RBLS Profile 2026.pdf')), 'Company profile download exists');
+    check(is_file(public_path('RBLS Data/RBLS Past Experince Portfoilio.pdf')), 'Portfolio download exists');
     echo "\n{$checks} checks passed.\n";
 } finally {
     // Delete only test files created under this uniquely named test directory.

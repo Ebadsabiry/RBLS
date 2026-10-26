@@ -22,7 +22,7 @@ function checkAssets(directory) {
     }
 }
 checkAssets(output);
-for (const asset of ['css/site.css', 'js/site.js', 'images/rbls-hero.png', 'RBLS Data/RBLS Profile 2026-compressed.pdf', 'RBLS Data/RBLS past experience portfolio.xlsx']) {
+for (const asset of ['css/site.css', 'js/site.js', 'images/rbls-hero.png', 'RBLS Data/RBLS Profile 2026.pdf', 'RBLS Data/RBLS Past Experince Portfoilio.pdf']) {
     assert.ok(existsSync(path.join(output, asset)), asset+' remains available');
 }
 
@@ -46,5 +46,5 @@ assert.equal(resolveRequest('/contact'), '/api/index.php');
 assert.equal(resolveRequest('/index.php'), 404);
 assert.equal(resolveRequest('/.env'), 404);
 assert.equal(resolveRequest('/css/site.css'), 'static:css/site.css');
-assert.equal(resolveRequest('/RBLS%20Data/RBLS%20Profile%202026-compressed.pdf'), 'static:RBLS Data/RBLS Profile 2026-compressed.pdf');
+assert.equal(resolveRequest('/RBLS%20Data/RBLS%20Profile%202026.pdf'), 'static:RBLS Data/RBLS Profile 2026.pdf');
 console.log('PASS Vercel routing: homepage and pages execute Laravel, source is excluded, and '+assets+' static assets remain available.');
